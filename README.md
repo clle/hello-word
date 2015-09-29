@@ -1,3 +1,3 @@
 # hello-word
 ma premiere repository sur GitHub
-I add a line with the edit mode
+I love to geek and party
